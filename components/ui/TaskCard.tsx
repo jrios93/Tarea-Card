@@ -12,7 +12,8 @@ import { Separator } from "@/components/ui/separator"
 import { Button } from "@/components/ui/button"
 import { CheckIcon, TrashIcon} from "lucide-react"
 import { Badge } from "@/components/ui/badge"
-import TaskEditForm from "./taskEditForm"
+import TaskEditForm from "./TaskEditForm"
+
 
 
 type Props = {
